@@ -29,10 +29,10 @@ This section introduces fundamental data types in Python, which are essential fo
 
   - Discusses string data type in Python, which is used to store text data. Strings are immutable, meaning their values cannot be changed after creation.
   - Quotes: Strings can be created using double quotes `"` or single quotes `'`.
-  - 
-    ![Single Quotes](https://github.com/sisatput/LearnPythonImg/blob/main/Week1/Single%20Quotes.png?raw=true)
     
-    ![Double Quotes](https://github.com/sisatput/LearnPythonImg/blob/main/Week1/Double%20Quotes.png?raw=true)
+  - ![Single Quotes](https://github.com/sisatput/LearnPythonImg/blob/main/Week1/Single%20Quotes.png?raw=true)
+    
+  - ![Double Quotes](https://github.com/sisatput/LearnPythonImg/blob/main/Week1/Double%20Quotes.png?raw=true)
     
   - Line Breaks: Strings can contain line breaks using escape sequences like `\n`.
     
