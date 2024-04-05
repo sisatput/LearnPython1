@@ -4,7 +4,7 @@ Welcome to the Guide for Learning Python for Data Analysts! 🐍
 
 If you're embarking on your Python programming journey, you've landed in the perfect spot. This README aims to give you a solid grasp of fundamental data types in Python, ensuring your learning adventure is both enjoyable and straightforward.
 
-In this guide, you'll find a curated list of topics that cover essential Python concepts, including data types, operators, variables, and conditional expressions. Each topic is accompanied by a brief explanation to help you understand its purpose and relevance in Python programming.
+In this guide, you'll find a curated list of topics that cover essential Python concepts, including data types, operators, variables, conditional expressions, loops, breaks, continue, and list comprehension. Each topic is accompanied by a brief explanation to help you understand its purpose and relevance in Python programming.
 
 ## Data Types
 
