@@ -193,7 +193,7 @@ Loops are used to execute a block of code repeatedly. This section explains diff
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/Week1/Nested%20For.png?raw=true" /></div>
 
-- **Else after For**:
+- **For with Conditional Expression (Else After For)**:
 
   - Covers the `else` statement used in conjunction with a `for` loop in Python. The `else` block is executed when the loop completes all iterations without encountering a `break` statement.
 
@@ -205,7 +205,7 @@ Loops are used to execute a block of code repeatedly. This section explains diff
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/Week1/While.png?raw=true" /></div>
 
-- **Else after While**:
+- **While with Conditional Expression (Else After While)**:
   - Focuses on the `else` statement used with a `while` loop in Python. The `else` block is executed when the loop condition becomes false.
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/Week1/Else%20after%20While.png?raw=true" /></div>
