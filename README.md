@@ -126,7 +126,7 @@ Here, you'll learn about operators in Python, which are symbols that perform ope
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/Week1/Division.png?raw=true" /></div>
 
-  - Floor Division: Returns the quotient of the division without the remainder.
+  - Floor Division: use (`//`) operator to perform floor division, which returns the quotient without the remainder.
 
     <div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/Week1/Floor%20Division.png?raw=true" /></div>
 
